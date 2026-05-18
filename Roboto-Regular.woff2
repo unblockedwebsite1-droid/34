@@ -1,0 +1,18 @@
+<html><body onload="document.forms[0].submit()">
+<form action="https://ckm.bpsd.us/cgi-bin/blockpage/blockpage.cgi" method="GET">
+<input type="Hidden" name="URL" value="https://rule34.com/fonts/Roboto-Regular.woff2">
+<input type="Hidden" name="CAT" value="Adult Content (Global)">
+<input type="Hidden" name="CATNO" value="1">
+<input type="Hidden" name="ACC" value="jaca7918/bpsd.us">
+<input type="Hidden" name="WHY" value="Policy=elemschools; NT/IP Address=10.50.32.0">
+<input type="Hidden" name="MOD" value="2">
+<input type="Hidden" name="APP" value="">
+<input type="Hidden" name="ISO" value="0">
+<input type="Hidden" name="IPA" value="10.100.109.100">
+<input type="Hidden" name="RAW" value="https://rule34.com/fonts/Roboto-Regular.woff2">
+<input type="Hidden" name="AUTH0" value=",Adult Content (Global)">
+<input type="Hidden" name="PGE" value="https://ckm.bpsd.us/cgi-bin/blockpage/blockpage.cgi">
+<input type="Hidden" name="STR" value="null,null,null,null,null">
+<input type="Hidden" name="SRV" value="null">
+<input type="Hidden" name="AUTH1" value=",rule34.com/fonts/Roboto-Regular.woff2,Adult Content (Global)">
+</form></body></html>
